@@ -10,13 +10,13 @@ int main(){
     cout << "floor division = " <<(a%b) << endl;
     
 
-    // Relational operators <, <= , > , >= , != , ==
-    // cout << (3<5) << endl;
-    // cout << (3<=5) << endl;
-    // cout << (3>5) << endl;
-    // cout << (3>=5) << endl;
-    // cout << (3!=5) << endl;
-    // cout << (3==5) << endl;
+    //Relational operators <, <= , > , >= , != , ==
+    cout << (3<5) << endl;
+    cout << (3<=5) << endl;
+    cout << (3>5) << endl;
+    cout << (3>=5) << endl;
+    cout << (3!=5) << endl;
+    cout << (3==5) << endl;
     
 
     // Logical operators OR (||) , AND (&&) , NOT (!)
