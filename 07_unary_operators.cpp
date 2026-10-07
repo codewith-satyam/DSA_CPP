@@ -25,9 +25,5 @@ int main(){
     cout << "y =" <<y << endl; // 29
     cout << "x =" <<x << endl;//19
     return 0;
-
     
-
-
-
 }
